@@ -39,7 +39,7 @@ if(isset($_POST['Signin'])){
             </div>
             
             <div class="inputBox">
-                <input type="submit" name="" value="Sign In">
+                <input type="submit" name="Signin" value="Sign In">
             </div>
         </div>
         <p class="forgot">Forget password? <a href="#">Click Here</a></p>
